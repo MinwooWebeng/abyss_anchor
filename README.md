@@ -15,6 +15,7 @@ GET https://0.0.0.0/board </br>
 POST https://0.0.0.0/reg </br>
 name:mallang </br>
 sha3-256:****************************** </br>
+ </br>
 loopback:1605 </br>
 192.168.0.2:1605 </br>
  </br>
