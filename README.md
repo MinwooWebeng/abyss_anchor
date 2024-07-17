@@ -11,7 +11,6 @@ An example of abyss identity anchor server
 
 GET https://0.0.0.0/id?name=$name </br>
 GET https://0.0.0.0/stun </br>
-GET https://0.0.0.0/board </br>
 POST https://0.0.0.0/reg </br>
 name:mallang </br>
 sha3-256:****************************** </br>
